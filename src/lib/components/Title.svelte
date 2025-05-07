@@ -11,8 +11,9 @@
   Tux Exchange is a virtual market* for members of the All Things Linux Discord server.
 </p>
 <p id="disclaimer" class="text-sm text-center font-mono font-bold text-gray-50/75 mt-4">
-  *All bets are for fun and not real money. This is a virtual market. This is NOT
+  *This is for fun and is not real money nor can it be traded for real money. This is a virtual market. This is NOT
   accuratelinuxgraphs.com certified.
+  See about page for more information.
 </p>
 
 <button
@@ -20,10 +21,5 @@
   class="bg-gray-900/75 text-white px-6 py-4 rounded-2xl shadow-2xl shadow-gray-900 mt-8 mx-auto block font-extrabold text-2xl"
   on:click={() => alert('WIP')}
 >
-  Start Winning* Big* $$$$** Money* Incorporated Certified*
+  Log In
 </button>
-<p class="text-sm text-gray-200/50 mt-2 text-center">
-  *nope
-  <br />
-  **$$$$ is a term in the Accuracy Metric System (AMS) and is not a real currency.
-</p>

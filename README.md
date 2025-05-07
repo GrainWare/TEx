@@ -4,9 +4,9 @@ Tux Exchange
 
 ## About
 
-Tux Exchange is a virtual market that allows users of the All Things Linux Discord to bet on certain things pertaining to the Linux community.
+Tux Exchange is a virtual market that allows users of the All Things Linux Discord to bet/invest on certain things pertaining to the Linux community.
 
-NOTE: All bets are for fun and not real money. This is a virtual market.
+NOTE: This is for fun and is not real money nor can it be traded for real money. This is a virtual market.
 NOTE 2: This is **NOT** accuratelinuxgraphs.com certified.
 
 ### Developing
