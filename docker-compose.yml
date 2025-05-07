@@ -1,0 +1,9 @@
+services:
+  app:
+    image: your-app-image:latest
+    restart: unless-stopped
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - '3000:3000' # Change if this port is already in use, e.g. "3001:3000" if you want to use port 3001 instead
