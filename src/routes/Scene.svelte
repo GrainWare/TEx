@@ -44,14 +44,10 @@
   }}
 >
   <T.BoxGeometry args={[4, 4, 4]} />
-  <ImageMaterial url="favicon.png" transparent negative={negative} />
+  <ImageMaterial url="favicon.png" transparent {negative} />
 </T.Mesh>
 
-<T.Mesh
-  rotation.y={rotation2}
-  position.y={1}
-  scale={scale.current}
->
+<T.Mesh rotation.y={rotation2} position.y={1} scale={scale.current}>
   <T.BoxGeometry args={[100, 100, 100]} />
   <ImageMaterial url="bg.png" transparent side={DoubleSide} />
 </T.Mesh>
