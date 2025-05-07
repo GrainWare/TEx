@@ -26,6 +26,10 @@
     "vite": "^6.2.6"
   },
   "dependencies": {
-    "@prisma/client": "^6.7.0"
+    "@prisma/client": "^6.7.0",
+    "@tailwindcss/vite": "^4.1.5",
+    "@threlte/core": "^8.0.2",
+    "@threlte/extras": "^9.1.4",
+    "tailwindcss": "^4.1.5"
   }
 }
